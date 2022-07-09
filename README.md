@@ -7,7 +7,9 @@ For more information, reference my codewars profile https://www.codewars.com/use
 
 This repository consists of my solutions for the Codewars challenges, in ***Javascript***.
 
+___
 
+![alt rank](https://www.codewars.com/users/its-mavi-dev/badges/large)
 
 ___
 
